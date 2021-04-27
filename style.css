@@ -16,7 +16,7 @@ h1{
     min-width: 380px;
     text-align: center;
     font-weight: 600;
-    font-size: 3em;
+    font-size: 2em;
     margin-top: 0;
     border-left-color: black;
     border-right-color: black;
@@ -58,7 +58,6 @@ h1{
     min-width: 400px;
     color: white;
     background-color: black;
-    font-size: 1.5rem;
     text-align: center;
     margin-bottom: 0px;
     padding-bottom: 0px;
@@ -68,7 +67,9 @@ h1{
     margin-bottom: 0px;
     padding-bottom: 0px;
     font-weight: 400;
-    font-size: 2rem;
+    font-size: 1rem;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 @media only screen and (min-width: 600px) {
