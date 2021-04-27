@@ -1,0 +1,98 @@
+.headline-link{
+    text-decoration: none;
+    color: black;
+}
+
+.headline-link:hover{
+    background-color: bisque;
+}
+
+h1{
+    /* font-family: 'UnifrakturCook', cursive; */
+    /* font-family: 'Libre Baskerville', serif; */
+    font-family: 'Noto Serif', serif;
+    text-transform: uppercase;
+    max-width: 780px;
+    min-width: 380px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 3em;
+    margin-top: 0;
+    border-left-color: black;
+    border-right-color: black;
+    border-right-width: 10px;
+    border-left-width: 10px;
+    border-left-style: solid;
+    border-right-style: solid;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+
+.instructions{
+    min-width: 400px;
+    text-align: center;
+    max-width: 800px;
+}
+
+.logo-section{
+    min-width: 400px;
+    max-width: 800px;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    padding: 0px 0px 0px 0px;
+}
+
+#logo{
+    width: 800px;
+    height: 120px;
+    margin-right: 0px;
+    margin-left: 0px;
+    object-fit: cover;
+}
+
+.text-filler-section{
+    max-width: 800px;
+    min-width: 400px;
+    color: white;
+    background-color: black;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.filler-text{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+@media only screen and (min-width: 600px) {
+    .filler-text {
+      font-weight: 600;
+    }
+  }
+
+.images-section{
+    height: fit-content;
+    padding-bottom: 20px;
+    max-width: 780px;
+    min-width: 380px;
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+    border-top-style: none !important;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#image{
+    object-fit: cover;
+    max-width: 740px;
+    min-width: 400px;
+}
