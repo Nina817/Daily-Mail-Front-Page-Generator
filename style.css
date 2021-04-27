@@ -85,14 +85,35 @@ h1{
     border-width: 10px;
     border-style: solid;
     border-top-style: none !important;
+    border-bottom-style: none;
     margin-top: 0px;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 0px;
 }
 
 #image{
     object-fit: cover;
     max-width: 740px;
     min-width: 400px;
+    max-height: 40vh;
+}
+
+.column-section{
+    max-width: 780px;
+    min-width: 380px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    border-top-style: none;
+    margin-top: 0px;
+}
+
+.column-text{
+    column-count: 3;
+    font-size: 1rem;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
 }

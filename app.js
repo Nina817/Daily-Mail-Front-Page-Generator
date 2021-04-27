@@ -37,19 +37,19 @@ images[3].src= "https://www.hastingsobserver.co.uk/webimg/T0FLMTMwNDEzNDA3.jpg?c
 images[4]=document.createElement("img");
 images[4].src= "https://scontent-lhr8-1.xx.fbcdn.net/v/t1.6435-9/175000514_4299967140048256_475521768206339659_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=N4lOsJT4ouwAX--oAGl&_nc_ht=scontent-lhr8-1.xx&oh=e2a21cf5cc11388cdef6bc2218ac0a21&oe=60AC2BA5";
 
-images[5]=document.createElement("img");
-images[5].src= "https://scontent-lhr8-1.xx.fbcdn.net/v/t1.6435-9/174615826_4297449846966652_1173692667996475069_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=YIEXPkUTpgsAX8oXt9s&_nc_ht=scontent-lhr8-1.xx&oh=66015518e30bc9cd2a273be6cbec43cc&oe=60ADB20A";
+images[5]=document.createElement("img"); //man hid pork down trousers
+images[5].src= "https://scontent-lhr8-1.xx.fbcdn.net/v/t1.6435-9/130283568_3921407991237508_8078946815373578535_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=qrFC7N516aQAX96Jie8&_nc_ht=scontent-lhr8-1.xx&oh=e8f0cd9761afb3b615b475a20be3c364&oe=60AF32A3";
 
-images[6]=document.createElement("img");
+images[6]=document.createElement("img");//mum and daughter w pothole
 images[6].src= "https://scontent-lhr8-1.xx.fbcdn.net/v/t1.6435-9/175383469_4305667166144920_3592563288090270941_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=Aygi9h9QCfgAX-RT6v3&_nc_ht=scontent-lhr8-1.xx&oh=906aa9f10b86ab73080db9789b60acf4&oe=60AFCB0F";
 
-images[7]=document.createElement("img");
+images[7]=document.createElement("img"); //mr tumbles
 images[7].src= "https://scontent-lhr8-2.xx.fbcdn.net/v/t1.6435-9/171504532_4282954508416186_8502610059474297801_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=RD9iXIfaq54AX9RyrD6&_nc_ht=scontent-lhr8-2.xx&oh=5be9146645b92942eeef8dc232162d5e&oe=60ACE6AF";
 
-images[8]=document.createElement("img");
+images[8]=document.createElement("img"); //nun headline
 images[8].src= "https://scontent-lhr8-1.xx.fbcdn.net/v/t1.6435-9/159814484_4191732034205101_7315095138441853105_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=fGi7hPKO3pYAX8EYi5c&_nc_ht=scontent-lhr8-1.xx&oh=f1ddcc5dd21f874ebc757bddf91089ff&oe=60AC9F83";
 
-images[9]=document.createElement("img");
+images[9]=document.createElement("img"); //mum w school girl in skirt
 images[9].src= "https://scontent-lhr8-2.xx.fbcdn.net/v/t1.6435-9/159471273_4188660554512249_2102070958795137966_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=730e14&_nc_ohc=nw7kLNXPptAAX8G5Wo7&_nc_ht=scontent-lhr8-2.xx&oh=c6cf92cf3fe6081b169ac22cc8d572b1&oe=60AC617B";
 
 images[10]=document.createElement("img");
@@ -64,8 +64,8 @@ images[12].src= "https://img.huffingtonpost.com/asset/5d01723b250000a013df0d8e.j
 images[13]=document.createElement("img");
 images[13].src= "https://static.boredpanda.com/blog/wp-content/uploads/2019/10/stupid-funny-newspaper-headlines-5db2ba2586e3c__700.jpg";
 
-images[14]=document.createElement("img");
-images[14].src= "https://i.pinimg.com/originals/f0/23/e4/f023e42ec0915c867262e5cadb896e78.jpg";
+images[14]=document.createElement("img");//matt hancock
+images[14].src= "https://scontent-lhr8-2.xx.fbcdn.net/v/t1.6435-9/135782208_3999168813461425_1309198534116789044_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=9egGf2wWywwAX8uuScu&_nc_ht=scontent-lhr8-2.xx&oh=63ca38a0921cd5036fe9db740bc395b7&oe=60ACA707";
 
 var h=0;
 
