@@ -119,3 +119,12 @@ h1{
     margin-left: 10px;
     margin-right: 10px;
 }
+
+.click-here-text{
+    float: right;
+    padding-bottom: 200px;
+    font-size: 2rem;
+    color: red;
+    /*margin-top: -70px;*/
+    padding-right: 200px;
+}
